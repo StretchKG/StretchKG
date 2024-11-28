@@ -1,6 +1,6 @@
 Victor Nunes
 
-**`Desenvolvedora Estudante`**
+**`Desenvolvedor Estudante`**
 
 Me chamo Victor Nunes Leal, tenho 24 anos e sou natural de Rio Guarulhos. Concluí o ensino médio no EEVA, Atualmente, estou cursando HTML, CSS E JAVASCRYPT. Sou apaixonado por tecnologia, e filmes de ficção
 
